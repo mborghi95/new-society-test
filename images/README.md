@@ -1,0 +1,1 @@
+Place your Lake Winnipesaukee image here and name it 'lake-background.jpg'
