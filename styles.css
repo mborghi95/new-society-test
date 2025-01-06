@@ -3,7 +3,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 20px;
-    /* Updated path to point to images folder */
+    /* Updated path to point to the images folder */
     background-image: url('images/lake.jpg');
     background-color: #f0f0f0; /* Fallback color */
     background-size: cover;
