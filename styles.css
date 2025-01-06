@@ -3,8 +3,8 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 20px;
-    /* Try both relative and absolute paths */
-    background-image: url('./lake-background.jpg');
+    /* Updated image path to match actual file name */
+    background-image: url('./lake.jpg');
     background-color: #f0f0f0; /* Fallback color */
     background-size: cover;
     background-position: center;
